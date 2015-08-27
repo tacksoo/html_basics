@@ -1,0 +1,30 @@
+body {
+  margin-right:10px;
+  margin-left:10px;
+  background-color:palegreen;  
+}
+
+.left-column {
+  position:fixed;
+  top:10px;
+  min-height:300px;
+  min-width:150px;
+  background-color:white;
+}
+
+.right-column {
+  position:fixed;
+  top:10px;
+  left:160px;
+  min-height:600px;
+  min-width:800px;
+  background-color:white;
+}
+
+.nav li {
+  list-style-type:none;  
+  font-family:arial;
+  font-size:15px;
+  margin-bottom:5px;
+}
+
